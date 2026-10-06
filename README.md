@@ -8,9 +8,10 @@ A Streamlit app that lets you chat with your PDF documents using Retrieval-Augme
 
 ## Demo
 
-![App Screenshot 1](docs/Screenshot%202026-10-06%20232803.png)
 
 ![App Screenshot 2](docs/Screenshot%202026-10-06%20233937.png)
+![App Screenshot 1](docs/Screenshot%202026-10-06%20232803.png)
+
 
 ## Setup
 
