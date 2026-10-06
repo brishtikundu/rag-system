@@ -1,0 +1,20 @@
+# secrets
+.env
+
+# virtual environments
+env/
+venv/
+.venv/
+
+# python
+__pycache__/
+*.pyc
+
+# editor / OS
+.vscode/
+.DS_Store
+
+# personal documents
+apps/docs_files/*
+!apps/docs_files/.gitkeep
+data/
